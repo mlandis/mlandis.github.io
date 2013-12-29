@@ -1,3 +1,4 @@
-Test
-====
-What
+---
+layout: post
+title: First Post
+---
