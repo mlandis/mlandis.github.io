@@ -1,10 +1,12 @@
 safe: true
 lsi: false
 pygments: true
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis","fenced_code_blocks","autolink","tables","with_toc_data"]
 
 author:
   twitter: landismj
   github: mlandis
+
+exclude: ["template.markdown", "newpost.rb"]
