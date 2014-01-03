@@ -13,4 +13,4 @@ To relax, I hike, read, and cook.
 
 Here's my <a href="/assets/mlandis_cv.pdf">CV</a>.
 
-This site is hosted on [GitHub Pages](http://pages.github.com/). Content is generated using [Jekyll](http://jekyllrb.com/).
+Site source code is available [here](http://github.com/mlandis/mlandis.github.io). Static site content is generated using [Jekyll](http://jekyllrb.com/) and hosted using [GitHub Pages](http://pages.github.com/).
