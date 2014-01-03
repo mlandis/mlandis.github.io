@@ -7,8 +7,10 @@ title: bio
 
 Hello.
 
-I study evolution by developing probabilistic models, writing open source community-minded software, and analysing simulated and empirical data. My current research interests include continuous trait evolution, historical biogeography, and population admixture.
+I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current research interests include continuous trait evolution, historical biogeography, and population admixture.
 
-In my spare time, I hike, read, and cook.
+To relax, I hike, read, and cook.
 
-My <a href="/assets/mlandis_cv.pdf">CV</a>.
+Here's my <a href="/assets/mlandis_cv.pdf">CV</a>.
+
+This site is hosted on [GitHub Pages](http://pages.github.com/). Content is generated using [Jekyll](http://jekyllrb.com/).
