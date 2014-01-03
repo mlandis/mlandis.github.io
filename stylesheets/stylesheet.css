@@ -137,15 +137,16 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+  /* border: 1px solid #ebebeb; 
 
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
   -ms-box-shadow: 0 0 5px #ebebeb;
+  */
 }
 
 p img {
@@ -195,6 +196,10 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
+
+hb {
+  font-size: 24px;
+}
 
 ul, ol, dl {
   margin-bottom: 15px
@@ -352,6 +357,22 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
+.date {
+  font-weight:bold;
+}
+
+.header_links {
+    float: right;
+}
+
+.bio_portrait {
+    float: left;
+}
+
+.bio_text {
+    float: right;
+}
+
 #main_content_wrap {
   float: center;
   background: #f2f2f2;
@@ -388,7 +409,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+    font-size: 32px;
   }
 
   h1 {
@@ -400,6 +421,10 @@ Small Device Styles
   }
 
   h3 {
+    font-size: 21px;
+  }
+
+  hb {
     font-size: 21px;
   }
 
@@ -415,6 +440,7 @@ Small Device Styles
     font-size: 12px;
   }
 
+
   code, pre {
     min-width: 320px;
     max-width: 480px;
@@ -422,6 +448,12 @@ Small Device Styles
   }
 
 }
+
+
+/*
+ * Pygments Styles
+ */
+
 .highlight { background-color: #ffffcc }
 .highlight .c { color: #586E75 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
