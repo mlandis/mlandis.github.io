@@ -8,8 +8,8 @@ paginate: 2
 
 authors:
   michael:
+    display_name: Michael Landis
     name: Michael Landis
-    display_name: Michael
     email: mlandis@gmail.com
     twitter: landismj
     github: mlandis

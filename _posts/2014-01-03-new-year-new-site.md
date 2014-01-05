@@ -34,7 +34,7 @@ $$
 
 ~~~
 {{"{% highlight python "}}%}
-def p(L,tp,j,k,l):
+def f(L,tp,j,k,l):
     for sl,ll in enumerate(L[l]):
         llj = sum([ lj * tp[l,j,sl,sj] for sj,lj in enumerate(L[j]) ])
         llk = sum([ lk * tp[l,k,sl,sk] for sk,lk in enumerate(L[k]) ])
@@ -45,13 +45,13 @@ def p(L,tp,j,k,l):
 with Pygments produces
 
 {% highlight python %}
-def p(L,tp,j,k,l):
+def f(L,tp,j,k,l):
     for sl,ll in enumerate(L[l]):
         llj = sum([ lj * tp[l,j,sl,sj] for sj,lj in enumerate(L[j]) ])
         llk = sum([ lk * tp[l,k,sl,sk] for sk,lk in enumerate(L[k]) ])
         L[l,sl] = llj * llk
 {% endhighlight %}
 
-...and voilà! We have Felsenstein's pruning algorithm!
+...and voilà! We have a major component of Felsenstein's pruning algorithm!
 
 With these features working, I'm looking forward to writing practical posts containing code snippets or educational posts dissecting the math we use to model evolution.
