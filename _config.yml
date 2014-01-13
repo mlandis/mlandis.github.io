@@ -4,7 +4,7 @@ pygments: true
 markdown: kramdown
 gems: [jekyll-scholar]
 exclude: ["template.markdown", "newpost.rb"]
-paginate: 2
+paginate: 3
 
 authors:
   michael:
