@@ -4,7 +4,7 @@ title: new year, new site
 date: 2014-01-04 13:18:00
 author: Michael Landis
 ---
-For the past year, I hosted my research progress on [Google Sites](http://sites.google.com). This is a wonderful free option for hosting cookie-cutter websites. Unfortunately, executing arbitrary Javascript within Google Sites was not permitted for security reasons. Because of this, I never managed to configure Google Sites to properly display syntax-colored code blocks or LaTeX-based equations.
+For the past year, I hosted my research progress on [Google Sites](http://sites.google.com/site/mlandis). This is a wonderful free option for hosting cookie-cutter websites. Unfortunately, executing arbitrary Javascript within Google Sites was not permitted for security reasons. Because of this, I never managed to configure Google Sites to properly display syntax-colored code blocks or LaTeX-based equations.
 
 I moved my content to [GitHub Pages](http://pages.github.com) which is compatible with [Jekyll](http://jekyllrb.com)-generated static content. Jekyll supports [MathJax](http://www.mathjax.org/) and [Pygments](http://pygments.org/), enabling LaTeX-rendering and code-syntax-highlighting, respectively.
 
@@ -55,3 +55,5 @@ def f(L,tp,j,k,l):
 ...and voilà! We have a major component of Felsenstein's pruning algorithm!
 
 With these features working, I'm looking forward to writing practical posts containing code snippets or educational posts dissecting the math we use to model evolution.
+
+All the code used for the site (and this post) are located at [http://github.com/mlandis/mlandis.github.io](http://github.com/mlandis/mlandis.github.io).

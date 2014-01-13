@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualizing uncertainty in admixture graphs 
+title: visualizing uncertainty in admixture graphs 
 date: 2013-08-07 13:29:00
 ---
 I've been working on a Bayesian implementation of Joe Pickrell and Jonathan Pritchard's admixture model (implemented as [TreeMix](http://code.google.com/p/treemix)). Their model extends Cavalli-Sforza and Edwards' seminal work on phylogenetic analysis, which assumed that modern populations allele frequencies evolved according to a Brownian motion model and covary according to an underlying bifurcating tree. By permitting admixture edges, the Pickrell-Pritchard model can capture signals of gene flow in cases where a bifurcating tree describes covariance in the populations' allele frequencies poorly (which is anything but a rare occurrence in, say, humans). These admixture edges transform our beautiful (though biologically unrealistic) bifurcating tree into a less wieldy tree-like graph. While phylogenetics have used consensus trees to describe topological uncertainty, I couldn't find a good way to summarize uncertainty for this sort of tree-like directed acyclic graph (DAG).

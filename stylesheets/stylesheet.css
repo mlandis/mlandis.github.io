@@ -378,6 +378,10 @@ Full-Width Styles
     float: right;
 }
 
+.math {
+  color:#222222;
+}
+
 #main_content_wrap {
   float: center;
   background: #f2f2f2;
