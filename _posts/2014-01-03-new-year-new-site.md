@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: new year, new site 
 date: 2014-01-04 13:18:00
 author: Michael Landis

@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: some updates
 date: 2013-06-02 13:29:00
+author: Michael Landis
 ---
 Evolution 2013 was very enjoyable, though exhausting (my classmates and I carpooled and camped). To share some of my "paperless" research, such as my Evolution talk, I created a [Figshare](http://figshare.com/authors/Michael%20Landis/427371) account.
 

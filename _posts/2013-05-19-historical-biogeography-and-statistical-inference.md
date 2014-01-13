@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: historical biogeography and statistical inference
 date: 2013-05-19 21:42:00
+author: Michael Landis
 ---
 Biogeography is the study of the distribution of life throughout time and space. Here we'll describe space in terms of species *ranges*, the shape and area of the geography commonly inhabited by those species. Species ranges rarely remain constant over time, but instead contract, expand, and divide in response to environmental, ecological, and geographical events. We'll focus on historical biogeography, which is chiefly interested in these processes operating over geological timescales. This marriage to geological time is not entirely amicable, because while treating species ranges as functions of time allows us to learn what processes generated biogeographic patterns, time simultaneously complicates the observation of ancestral species ranges we wish to describe (e.g. through taphonomic bias, tectonic drift, etc).
 

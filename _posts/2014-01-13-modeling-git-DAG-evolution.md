@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: modeling git-DAG evolution 
 date: 2014-01-13 11:47:00
 author: Michael Landis

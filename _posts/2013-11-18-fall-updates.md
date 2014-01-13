@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: fall updates
 date: 2013-11-18 19:15:00
 author: Michael Landis
