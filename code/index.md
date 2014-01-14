@@ -2,6 +2,7 @@
 layout: default
 title: code
 ---
+<h1>code.</h1>
 
 #### [BayArea](http://code.google.com/p/bayarea/) ####
 ---
