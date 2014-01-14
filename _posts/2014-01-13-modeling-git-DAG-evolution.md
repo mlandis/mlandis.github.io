@@ -59,9 +59,7 @@ The likelihood of a sequence of timed `git` events is simply the product of thes
 
 To infer the parameters of this process, I set up a slapdash [Markov chain Monte Carlo](http://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) implemented in Python and found at [https://github.com/mlandis/git-coal/blob/master/git_dag.py](https://github.com/mlandis/git-coal/blob/master/git_dag.py).
 
-Finally, I applied this model to the `git-log` history of [git-coal](http://github.com/mlandis/git-coal), the very same repository git_dag.py is stored in. To make the `git-log` a bit more interesting, I executed a few dozen meaningless `git-branch` and `git-merge` commands using [https://github.com/mlandis/git-coal/blob/master/git_coal.py](https://github.com/mlandis/git-coal/blob/master/git_dag.py).
-
-Looking at the posterior from the analysis using [Tracer](http://tree.bio.ed.ac.uk/software/tracer/), we see the rate of branch and merge events are approximately equal (which is true under my simulation settings).
+Finally, I applied this model to a simulated `git-log` history. Looking at the posterior from the analysis using [Tracer](http://tree.bio.ed.ac.uk/software/tracer/), we see the rate of branch and commit events are approximately equal (which is true under my simulation settings).
 
 <a href="/assets/git_graph_eg.png"><img src="/assets/git_graph_eg.png" alt="git-graph" style="width: 600px"/></a>
 
