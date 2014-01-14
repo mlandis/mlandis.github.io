@@ -19,7 +19,8 @@
         <a class="header_links" href="http://github.com/mlandis"><img src="/assets/github.png" height="30" width="30" border="0"></a>
         <a class="header_links" href="mailto:mlandis@gmail.com"><img src="/assets/mail.png" height="30" width="30" border="0"></a>
         </h1>
-          <h3 id="project_links"><a href="/">main.</a>&nbsp;&nbsp;&nbsp;<a href="/code">code.</a>&nbsp;&nbsp;&nbsp;<a href="/bio">bio.</a>
+        <h3 id="project_links"><a href="/">main.</a>&nbsp;&nbsp;&nbsp;<a href="/posts">posts.</a>&nbsp;&nbsp;&nbsp;<a href="/code">code.</a>&nbsp;&nbsp;&nbsp;<a href="/bio">bio.</a>
+            <
           </h3>
         </header>
     </div>
@@ -29,7 +30,7 @@
         <section id="main_content" class="inner">
         <main>
             <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-            <span class="date">{{ page.date }}</span>
+            <span class="date">{{ page.date | date_to_string }}</span>
             <div class="content">{{ content }}</div>
         </main>
     </div>

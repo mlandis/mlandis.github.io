@@ -35,7 +35,7 @@ Lévy processes are an expressive class of stochastic processes that produce dis
 
 Described in
 
-> Landis, M., Schraiber, J., & Liang, M. (2013). Phylogenetic analysis using Lévy processes: finding jumps in the evolution of continuous traits. *Systematic Biology*, 62(2), 193–204. doi:10.1093/sysbio/sys086
+> Landis, M. J.\*, Schraiber, J. G.\*, & Liang, M. (2013). Phylogenetic analysis using Lévy processes: finding jumps in the evolution of continuous traits. *Systematic Biology*, 62(2), 193–204. doi:10.1093/sysbio/sys086
 
 #### [RevBayes](http://sourceforge.net/projects/revbayes/) ####
 ---
