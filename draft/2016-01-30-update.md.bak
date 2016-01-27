@@ -1,0 +1,49 @@
+---
+layout: post
+title: getting familiar with RevBayes
+date: 2016-01-13 13:00:00
+author: Michael Landis
+---
+
+Model space is vast.
+When models are applied to scientific questions, two forces prune that space into something practical, and ideally, useful.
+First, empirical observations 
+Second, theory identifies what effects are important or not for the scale of the question at hand.
+These first two qualities are positive, in the sense that they establish what parts of model space are worth consideration, and what parts are likely to be irrelevant.
+The third constraint on explorable model space, however, is
+
+
+
+
+ 
+Phylogenetic models, for instance, are dominated by four major components (or [modules](xxx) citation):
+the molecular substitution process, the diversification process, the branch-rate variation model (or relaxed clock models), and site-rate variation models.
+
+I am going to write a series of posts describing to conduct a basic phylogenetic analysis in RevByes.
+My hope is this will help those new to RevBayes understand its use and design.
+
+There are a few topics to address, each one covered in an individual post over the next few weeks.
+I will link to the posts below as they're completed.
+
+#### Topics
+
+Phylogenetic analysis pipeline
+
+RevBayes basics
+
+Reading data
+
+Phylogenetic substitution models
+
+Tree priors
+
+Relaxed clock priors
+
+Rate matrices
+
+Substitution processes
+
+Estimating the posterior
+
+Advanced analyses
+
