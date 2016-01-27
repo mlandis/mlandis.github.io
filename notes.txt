@@ -1,0 +1,10 @@
+main page:
+who I am, etc
+
+headers:
+
+main,
+research,
+posts,
+code,
+publications,
