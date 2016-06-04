@@ -5,6 +5,7 @@ layout: default
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <span class="date">{{ post.date | date_to_string }}</span>
     <div class="content">{{ post.content }}</div>
+    <hr>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
