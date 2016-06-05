@@ -234,7 +234,7 @@ Assigning a new value to `p` will cause `q` to lose `p` as a child.
 
 Of course, phylogenetic models are more complex than coin flipping experiments.
 The basic building blocks to compose richer models are essentially the same.
-That's the beauty of graphical models: that simple relationships can generate complexity.
+That's the beauty of graphical models: that simple relationships can generate scalable complexity.
 In the long run, the goal is not only to build models that formalize our understanding of nature, but to learn about the behavior of the processes that generate biodiversity.
 
 Next time we'll look into RevBayes data structures.
