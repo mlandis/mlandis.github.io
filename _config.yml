@@ -1,6 +1,6 @@
 safe: true
 lsi: false
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 gems: [jekyll-scholar]
 exclude: ["template.markdown", "newpost.rb"]
