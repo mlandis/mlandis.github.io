@@ -4,13 +4,13 @@ title: research
 ---
 <h1>Research</h1>
 
-I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current primary interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **quantitative trait evolution**.
+My primary research interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **quantitative trait evolution**.
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 Due to technological and mathematical reasons, statistical phylogenetic research has largely focused on models of molecular evolution.
 Two of the most salient aspects of biodiversity, the morphological and geographical variation of species, have a rich theoretical histories in biology, but lack statistical tools to test longstanding theories.
 
-My research often entails developing phylogenetic models and methods to study how these characters evolve.
+I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 These methods are available as open source software (see below).
 I maintain a strong and general interest in phylogenetic inference, and serve as an active core developer for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
 
