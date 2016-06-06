@@ -17,7 +17,7 @@ I maintain a strong and general interest in phylogenetic inference, and serve as
 
 
 Historical biogeography studies the distribution of species in space and time.
-Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges changes over time.
+Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
 Only recently, parametric models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
 Methodologically, I am interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
 For models, I am interested how biogeographic inference may improve phylogenetic estimates.
