@@ -4,7 +4,7 @@ title: research
 ---
 <h1>Research</h1>
 
-I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current research interests include phylogenetics, historical biogeography, continuous trait evolution, and Bayesian inference.
+I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current primary interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **quantitative trait evolution**.
 
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 Due to technological and mathematical reasons, statistical phylogenetic research has largely focused on models of molecular evolution.
@@ -63,7 +63,7 @@ Schraiber, J. G., and **Landis, M. J.**. (2015). Sensitivity of quantitative tra
 Learning the degree of relatedness between species has far-reaching implications for biological research, from basic research questions in evolution and ecology, to applied questions in medical research, epidemiology, forensics, and biodiversity management.
 Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
 [RevBayes](http://revbayes.com) was designed to allow researchers to tailor models to their needs.
-RevBayes achieves this by providing a flexible scripting language that describe probabilistic graphical models.
+RevBayes achieves this by providing a flexible scripting language to describe probabilistic graphical models.
 
 ##### Related work
 
