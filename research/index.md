@@ -4,11 +4,11 @@ title: research
 ---
 <h1>Research</h1>
 
-My primary research interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **quantitative trait evolution**.
-
 Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 Due to technological and mathematical reasons, statistical phylogenetic research has largely focused on models of molecular evolution.
 Two of the most salient aspects of biodiversity, the morphological and geographical variation of species, have a rich theoretical histories in biology, but lack statistical tools to test longstanding theories.
+
+My primary research interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **quantitative trait evolution**.
 
 I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 These methods are available as open source software (see below).
