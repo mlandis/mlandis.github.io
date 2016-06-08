@@ -57,12 +57,13 @@ Schraiber, J. G., and **Landis, M. J.**. (2015). Sensitivity of quantitative tra
 
 (\*) - Lead author.
 
-### Phylogenetic inference
+### Phylogenetic inference with RevBayes
 
 Learning the degree of relatedness between species has far-reaching implications for biological research, from basic research questions in evolution and ecology, to applied questions in medical research, epidemiology, forensics, and biodiversity management.
 Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
 [RevBayes](http://revbayes.com) was designed to allow researchers to tailor models to their needs.
 RevBayes achieves this by providing a flexible scripting language to describe probabilistic graphical models.
+I am both an active core developer and daily user of RevBayes, which is an integral part of my biological research program.
 
 ##### Related work
 
