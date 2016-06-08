@@ -63,7 +63,7 @@ Learning the degree of relatedness between species has far-reaching implications
 Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
 [RevBayes](http://revbayes.com) was designed to allow researchers to tailor models to their needs.
 RevBayes achieves this by providing a flexible scripting language to describe probabilistic graphical models.
-I am both an active core developer and daily user of RevBayes, which is an integral part of my biological research program.
+I advance my biological research program both as a core developer and daily user of RevBayes.
 
 ##### Related work
 
