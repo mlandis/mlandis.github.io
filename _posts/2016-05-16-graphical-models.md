@@ -9,9 +9,9 @@ You bet heads on the coin flip, and lose again.
 Your host wonders aloud what the chances of losing five games in a row might be.
 Most would reply the odds for heads over tails is fifty-fifty, which comes to $$2^{-5}$$ for five trials, assuming a fair coin.
 But, then again, the hour is late, the carnival is closed, and your host with the pointed mustache pours you more wine.
-Is it a fair coin?
-This is to ask how are the data distributed for what parameters.
+You begin to wonder whether it is a fair coin.
 
+This is to ask how are the data distributed for what parameters.
 A coin flip may be represented as a random variable, $$H$$, which can either be heads, $$H=1$$, or tails, $$H=0$$.
 The [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution) says a random variable takes the value $$1$$ with probability $$p$$.
 That is, $$p$$ is a parameter that controls how fair the coin is.
