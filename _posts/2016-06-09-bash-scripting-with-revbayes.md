@@ -9,7 +9,7 @@ Whether working on genomic datasets or conducting a simulation study, research p
 The front-end of [RevBayes](http://revbayes.com) is an interpretted language, which provides users with an agile and powerful interface for scripting.
 
 Let's set up a little scenario to make it easy on the imagination.
-Suppose your task is to assess the sensitivity of posterior tree probabilities for one simple and one complex model--say, a Jukes-Cantor model, where all transition rates are equal, and the Felsenstein 81 model, where base frequencies are free parameters to be estimated.
+Suppose your task is to assess the sensitivity of posterior tree probabilities for one simple and one complex model---say, a Jukes-Cantor model, where all transition rates are equal, and the Felsenstein 81 model, where base frequencies are free parameters to be estimated.
 You've stored multiple sequence alignments for all the genes of interest in the folder `genes` in NEXUS format.
 You want to use RevBayes to estimate the posterior density for each gene, once assuming the rate matrix is `fnJC` and a second time assuming it is `fnF81`.
 Instead of repeatedly modifying and running your RevBayes script, `rb_gene_model.Rev`, you can automate the job in bash using the `echo` command and pipes (`|`).
