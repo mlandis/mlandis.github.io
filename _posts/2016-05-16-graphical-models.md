@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graphical models in RevBayes
+title: graphical models in RevBayes
 date: 2016-05-16 13:16:00
 author: Michael Landis
 ---
