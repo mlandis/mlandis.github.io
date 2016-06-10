@@ -121,7 +121,7 @@ By the end, you'll be comfortable reading and modifying the code, tailored to yo
 Below is a tentative outline, which will be updated with post links as they're completed.
 
 #### Topics
-* Graphical models
+* [Graphical models](http://mlandis.github.io/2016/05/16/graphical-models.html)
 * Reading data
 * Phylogenetic substitution models
 * Rate matrices
@@ -131,6 +131,6 @@ Below is a tentative outline, which will be updated with post links as they're c
 * Site-rate variation
 * Estimating the posterior
 * Advanced analyses
-* Phylogenetic analysis pipeline
+* [Scripting with RevBayes](http://mlandis.github.io/2016/06/09/bash-scripting-with-revbayes.html)
 
 Of course, feel free send me an [email](mailto:mlandis@gmail.com) or [tweet](http://twitter.com/landismj) with any feedback!
