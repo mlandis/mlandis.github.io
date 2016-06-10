@@ -5,6 +5,8 @@ date: 2016-05-16 13:16:00
 author: Michael Landis
 ---
 
+*This post is part of a [series](2016/01/27/revbayes-overview.html) exploring features in [RevBayes](http://revbayes.com).* 
+
 You bet heads on the coin flip, and lose again.
 Your host wonders aloud what the chances of losing five games in a row might be.
 Most would reply the odds for heads over tails is fifty-fifty, which comes to $$2^{-5}$$ for five trials, assuming a fair coin.

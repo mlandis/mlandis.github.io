@@ -4,6 +4,7 @@ title: bash scripting with RevBayes
 date: 2016-06-09 22:19:30
 author: Michael Landis
 ---
+*This post is part of a [series](2016/01/27/revbayes-overview.html) exploring features in [RevBayes](http://revbayes.com).*
 
 Whether working on genomic datasets or conducting a simulation study, research projects often require identical or nearly identical jobs to be replicated across vast numbers of datasets.
 The front-end of [RevBayes](http://revbayes.com) is an interpretted language, which provides users with an agile and powerful interface for scripting.
