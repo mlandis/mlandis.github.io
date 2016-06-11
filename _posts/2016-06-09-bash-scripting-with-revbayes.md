@@ -146,7 +146,7 @@ echo "...done!"
 {% endhighlight %}
 
 Everything is in place, and we can run the script.
-{% highlight bash %}
+{% highlight none %}
 > chmod +x *.sh
 > ./rb_gene_batch.sh genes/*.nex
 Running model "JC" for "genes/primates_cox2.nex"
@@ -155,8 +155,10 @@ Running model "JC" for "genes/primates_cytb.nex"
 Running model "F81" for "genes/primates_cytb.nex"
 ...done!
 {% endhighlight %}
-...and in time, the results will appear in the `output` directory.
-{% highlight bash %}
+
+...and, in time, the results will appear in the `output` directory.
+
+{% highlight none %}
 > ls -1 output
 primates_cox2.Q_F81.params.log
 primates_cox2.Q_F81.tre
