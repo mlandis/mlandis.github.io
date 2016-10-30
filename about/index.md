@@ -3,7 +3,9 @@ layout: default
 title: about
 ---
 <h1>About</h1>
-<img src="/assets/mlandis_portrait.png" style="float: left; margin:0px 10px 0px 0px">
+<a href="/assets/mlandis_163110.jpg">
+    <img src="/assets/mlandis_163110.jpg" style="float: left; margin:0px 20px 0px 0px" height="160">
+</a>
 Hello. My name is Michael Landis.
 
 I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current research interests include phylogenetics, historical biogeography, continuous trait evolution, and Bayesian inference.
