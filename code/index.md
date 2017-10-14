@@ -4,9 +4,16 @@ title: code
 ---
 <h1>code</h1>
 
-#### [BayArea](http://code.google.com/p/bayarea/) ####
+#### [RevBayes](http://sourceforge.net/projects/revbayes/) ####
 ---
 
+An R-like environment and C++ library for the evolutinary analysis of graphical models using Bayesian inference.
+
+( under development )
+
+
+#### [BayArea](http://code.google.com/p/bayarea/) -- biogeography for many areas ####
+---
 
 BayArea infers the posterior distribution of ancestral ranges of extant species when supplied their observed ranges and time-calibrated phylogeny. Range evolution is modeled on the phylogeny as a continuous-time Markov process, much as it is for molecular evolution, with ranges being binary presence-absence vectors corresponding to discrete geographical areas. This method ideal for data spanning many areas (more than 10) and quantifying uncertainty in ancestral range reconstructions.
 
@@ -15,6 +22,8 @@ BayArea infers the posterior distribution of ancestral ranges of extant species 
 Described in
 
 > Landis, M. J., Matzke, N. J., Moore, B. R., & Huelsenbeck, J. P. (2013). Bayesian analysis of biogeography when the number of areas is large. *Systematic Biology*, 62(6), 789–804. doi:10.1093/sysbio/syt040.
+
+This package is also available as a plugin through the software RASP.
 
 #### [Phylowood](http://mlandis.github.io/phylowood/) ####
 ---
@@ -25,7 +34,7 @@ Phylowood allows users to efficiently explore phylogeographic range reconstructi
 
 Described in 
 
-> Landis, M. J., & Bedford, T. (2013). Phylowood: interactive web-based animations of biogeographic and phylogeographic histories. *Bioinformatics*, 30(1), 123–124. doi:10.1093/bioinformatics/btt635
+> Landis, M. J. & Bedford, T. (2013). Phylowood: interactive web-based animations of biogeographic and phylogeographic histories. *Bioinformatics*, 30(1), 123–124. doi:10.1093/bioinformatics/btt635
 
 #### [creepy-jerk](http://github.com/mlandis/creepy-jerk/) ####
 ---
@@ -38,9 +47,20 @@ Described in
 
 > Landis, M. J.\*, Schraiber, J. G.\*, & Liang, M. (2013). Phylogenetic analysis using Lévy processes: finding jumps in the evolution of continuous traits. *Systematic Biology*, 62(2), 193–204. doi:10.1093/sysbio/sys086
 
-#### [RevBayes](http://sourceforge.net/projects/revbayes/) ####
+#### [pulsR](http://github.com/schraiber/pulsr) ####
 ---
 
-An R-like environment and C++ library for the evolutinary analysis of graphical models using Bayesian inference.
+pulsR is an R package that models phenotypic evolution with 
 
-( under development )
+Described in
+
+> Landis, M. J. and Schraiber J. G. (2017). Modern vertebrate body sizes were shaped by pulsed evolution. *Proceedings of the National Academy of Sciences*, In Press. (pre-print: )
+
+#### [qtc](http://github.com/schraiber/quant_trait_coalescent) ####
+
+
+Described in
+
+> Schraiber J. G. and Landis M. J. (2015). Sensitivity of quantitative trait evolution to XXX. *Theoretical Population Biology*...
+
+
