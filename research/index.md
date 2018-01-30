@@ -35,6 +35,7 @@ For models, I am interested how biogeographic inference may improve phylogenetic
             [[paper](../assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[software](http://github.com/mlandis/biogeographic_dating)]
         </td>
     </tr>
+
     <tr>
         <td markdown="span">
             <img src="../assets/research/img/Landis_et_al_2013_SystBiol_biogeography_many_areas.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
@@ -44,6 +45,7 @@ For models, I am interested how biogeographic inference may improve phylogenetic
             [[paper](../assets/research/pdf/Landis_et_al_2013_SystBiol_biogeography_many_areas.pdf)]  [[software](http://software.google.com/p/archive/bayarea)]
         </td>
     </tr>
+
     <tr>
         <td markdown="span">
             <img src="../assets/research/img/Landis_Bedford_2014_Bioinfo_phylowood.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
@@ -76,6 +78,7 @@ To search for signals of punctuated evolution, I apply a flexible class of stoch
             [[paper](../assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)]
         </td>
     </tr>
+
     <tr>
         <td markdown="span">
             <img src="../assets/research/img/Schraiber_Landis_2014_TPB_quant_coalescent.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
@@ -85,6 +88,7 @@ To search for signals of punctuated evolution, I apply a flexible class of stoch
             [[paper](../assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[software](http://github.com/Schraiber/quant_trait_coalescent)]
         </td>
     </tr>
+
     <tr>
         <td markdown="span">
             <img src="../assets/research/img/Landis_et_al_2012_SystBiol_phylo_levy.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
@@ -112,38 +116,40 @@ I advance my biological research program both as a core developer and daily user
 <table>
     <tr>
         <td markdown="span">
-<img src="../assets/research/img/Hoehna_et_al_2017_Bioinformatics_parallel_marg_like.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
+            <img src="../assets/research/img/Hoehna_et_al_2017_Bioinformatics_parallel_marg_like.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
         </td>
         <td markdown="span">
-Höhna, S., **Landis, M. J.**, and  B. R., Huelsenbeck. (2017).  Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.
+            Höhna, S., **Landis, M. J.**, and  B. R., Huelsenbeck. (2017).  Parallel power posterior analyses for fast computation of marginal likelihoods in phylogenetics. Bioinformatics, Accepted.
 <br>[[paper (pre-print)](../assets/research/pdf/Hoehna_et_al_2017_bioRxiv_parallel_marg_like.pdf)]
         </td>
+    </tr>
 
     <tr>
         <td markdown="span">
-<img src="../assets/research/img/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
+            <img src="../assets/research/img/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
         </td>
         <td markdown="span">
-Höhna, S., **Landis, M. J.**, and Heath, T. A. (2017). Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.
+            Höhna, S., **Landis, M. J.**, and Heath, T. A. (2017). Phylogenetic Inference Using RevBayes. Current Protocols in Bioinformatics, 57:6.16-6.16.34.
 <br>[[paper](../assets/research/pdf/Hoehna_et_al_2017_CurrProcBioinfo_revbayes.pdf)]
         </td>
+    </tr>
 
     <tr>
         <td markdown="span">
-<img src="../assets/research/img/Hoehna_et_al_2016_SystBiol_revbayes.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
+            <img src="../assets/research/img/Hoehna_et_al_2016_SystBiol_revbayes.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
         </td>
         <td markdown="span">
-
-Höhna, S., **Landis, M. J.**, Heath, T. A., Boussau, B., Lartillot, N., Moore, B. R., Huelsenbeck, J. P. & Ronquist, F. (2016). RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65(4):726-736.
+            Höhna, S., **Landis, M. J.**, Heath, T. A., Boussau, B., Lartillot, N., Moore, B. R., Huelsenbeck, J. P. & Ronquist, F. (2016). RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language. Systematic Biology, 65(4):726-736.
 <br>[[paper](../assets/research/pdf/Hoehna_et_al_2016_SystBiol_revbayes.pdf)]  [[software](http://github.com/revbayes/revbayes)]
         </td>
+    </tr>
 
     <tr>
         <td markdown="span">
-<img src="../assets/research/img/Hoehna_et_al_2014_SystBiol_graphical_models.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
+            <img src="../assets/research/img/Hoehna_et_al_2014_SystBiol_graphical_models.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
         </td>
         <td markdown="span">
-Höhna, S., Heath, T. A., Boussau, B., **Landis, M. J.**, Ronquist, F., & Huelsenbeck, J. P. (2014). Probabilistic graphical model representation in phylogenetics. Systematic Biology, 63(5):753-771.
+            Höhna, S., Heath, T. A., Boussau, B., **Landis, M. J.**, Ronquist, F., & Huelsenbeck, J. P. (2014). Probabilistic graphical model representation in phylogenetics. Systematic Biology, 63(5):753-771.
 <br>[[paper](../assets/research/pdf/Hoehna_et_al_2014_SystBiol_graphical_models.pdf)]
         </td>
     </tr>
