@@ -383,6 +383,10 @@ Full-Width Styles
   color:#222222;
 }
 
+.img-circle {
+    border-radius: 10%;
+}
+
 #main_content_wrap {
   float: center;
   background: #f2f2f2;

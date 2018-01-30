@@ -1,6 +1,6 @@
 <h1>Hello</h1>
 <a href="/assets/mlandis_portrait_med.jpg">
-    <img src="/assets/mlandis_portrait_med.jpg" style="float: right; margin:0px 20px 20px 25px" height="230">
+    <img src="/assets/mlandis_portrait_med.jpg" style="float: right; margin:0px 20px 20px 25px" height="230" class="img-circle">
 </a>
 My name is Michael Landis. I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data. My current research interests include phylogenetics, historical biogeography, continuous trait evolution, and Bayesian inference.
 
