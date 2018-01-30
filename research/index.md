@@ -48,8 +48,8 @@ To search for signals of punctuated evolution, I apply a flexible class of stoch
 ##### Related work
 
 <img src="../assets/research/img/Landis_Schraiber_2017_PNAS_pulse_vertebrate.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180">
-**Landis, M. J.** and Schraiber, J. G. (2017). Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, In Press.
-<br>[[paper (pre-print)](../assets/research/pdf/Landis_Schraiber_2017_bioRxiv_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)
+**Landis, M. J.** and Schraiber, J. G. (2017). Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 114(50) 13224-13229.
+<br>[[paper](../assets/research/pdf/Landis_Schraiber_2017_PNAS_pulse_vertebrate.pdf)]  [[software](http://github.com/Schraiber/pulsR)]
 
 <img src="../assets/research/img/Schraiber_Landis_2014_TPB_quant_coalescent.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180">
 Schraiber, J. G. and **Landis, M. J.**. (2015). Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical population biology, 102: 85-93.
