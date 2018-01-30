@@ -248,8 +248,8 @@ hr {
 }
 
 table {
-  border: 1px solid #bdbdbd;
-  margin-bottom: 20px;
+  border: 0px solid #bdbdbd;
+  margin-bottom: 0px;
   text-align: left;
  }
 
@@ -261,8 +261,9 @@ th {
  }
 
 td {
+  vertical-align:middle;
   padding: 10px;
-  border: 1px solid #bdbdbd;
+  border: 0px solid #bdbdbd;
  }
 
 form {
