@@ -1,4 +1,4 @@
-# Landis Lab
+# Modeling Evolution
 
 Our group studies the evolution of life: how has life radiated throughout and adapted to an ever-changing world?
 We focus our [research](research) towards macroevolutionary questions in phylogenetics, biogeography, trait evolution, and statistical inference.

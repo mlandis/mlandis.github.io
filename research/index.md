@@ -13,7 +13,7 @@ I study evolution by developing probabilistic models, writing open source and co
 These methods are available as open source software (see below).
 I maintain a broad and active interest in phylogenetic inference, and serve as an active core developer for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
 
-### Historical biogeography
+#### Historical biogeography
 
 Historical biogeography studies the distribution of species in space and time.
 Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
@@ -65,7 +65,7 @@ For models, I am interested how biogeographic inference may improve phylogenetic
     </tr>
 </table>
 
-### Phenotypic evolution
+#### Phenotypic evolution
 
 Darwin's original conception of evolution proposed that species evolve gradually over time.
 In phylogenetics, this is often modeled as a Brownian motion, whereby small changes occur over many small intervals of time.
@@ -111,7 +111,7 @@ To search for signals of punctuated evolution, I apply a flexible class of stoch
 
 (\*) - Lead co-authors.
 
-### Phylogenetic inference with RevBayes
+#### Phylogenetic inference with RevBayes
 
 Learning the degree of relatedness between species has far-reaching implications for biological research, from basic research questions in evolution and ecology, to applied questions in medical research, epidemiology, forensics, and biodiversity management.
 Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
