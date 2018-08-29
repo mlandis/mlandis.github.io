@@ -15,7 +15,6 @@ I maintain a broad and active interest in phylogenetic inference, and serve as a
 
 ### Historical biogeography
 
-
 Historical biogeography studies the distribution of species in space and time.
 Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
 Only recently, parametric models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
@@ -24,15 +23,24 @@ For models, I am interested how biogeographic inference may improve phylogenetic
 
 ##### Related work
 
-
 <table>
+    <tr>
+        <td markdown="span">
+            <img src="../assets/research/img/Landis_et_al_2018_Evolution_silversword_radiation.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
+        </td>
+        <td markdown="span">
+            **Landis, M. J.**, Freyman, W. A., & Baldwin, B. G. (2018). Retracing the silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty. Evolution (Accepted).<br>
+            [[paper](../assets/research/pdf/Landis_et_al_2018_bioRxiv_silversword_radiation)]  [[scripts](http://github.com/mlandis/biogeo_silversword)]
+        </td>
+    </tr>
+
     <tr>
         <td markdown="span">
             <img src="../assets/research/img/Landis_2016_SystBiol_biogeographic_dating.png" style="float: left; margin:0px 10px 0px 0px" height="100" width="180" class="img-circle-5">
         </td>
         <td markdown="span">
             **Landis, M. J.** (2017). Biogeographic dating of speciation times using paleogeographically informed processes. Systematic Biology, 66(2):128-144.<br>
-            [[paper](../assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[software](http://github.com/mlandis/biogeographic_dating)]
+            [[paper](../assets/research/pdf/Landis_2016_SystBiol_biogeographic_dating.pdf)]  [[scripts](http://github.com/mlandis/biogeographic_dating)]
         </td>
     </tr>
 
@@ -85,7 +93,7 @@ To search for signals of punctuated evolution, I apply a flexible class of stoch
         </td>
         <td markdown="span">
             Schraiber, J. G. and **Landis, M. J.**. (2015). Sensitivity of quantitative traits to mutational effects and number of loci. Theoretical population biology, 102: 85-93.<br>
-            [[paper](../assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[software](http://github.com/Schraiber/quant_trait_coalescent)]
+            [[paper](../assets/research/pdf/Schraiber_Landis_2014_TPB_quant_coalescent.pdf)]  [[scripts](http://github.com/Schraiber/quant_trait_coalescent)]
         </td>
     </tr>
 
