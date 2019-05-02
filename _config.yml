@@ -5,6 +5,7 @@ markdown: kramdown
 gems: [jekyll-scholar]
 exclude: ["template.markdown", "newpost.rb"]
 #paginate: 3
+#
 
 authors:
   michael:

@@ -1,3 +1,9 @@
+### Landis Lab
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Michael Landis](mailto:mlandis@gmail.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor [ starting Fall 2019 ]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Washington Unversity in St. Louis](https://wustl.edu/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Biology](https://wubio.wustl.edu/)<br>
+
 # Modeling Evolution
 
 Our group studies the evolution of life: how has life radiated throughout and adapted to an ever-changing world?
@@ -10,10 +16,19 @@ To this end, we develop probabilistic models of evolution, write open source and
 
 **29 Aug 2018**
 
-I am building a new research group in the [Department of Biology](https://wubio.wustl.edu/) at [Wash U](https://wustl.edu/) in Summer 2019.
-That means I'm actively recruiting for PhD and postdoctoral research positions.
+The Landis Lab is hiring!
+We are seeking researchers interested in studying evolutionary biology from a quantitative perspective.
+New lab members will design statistical models, develop scientific software methods, lead projects, and publish first-author papers.
+Postdoctoral and PhD positions are available to start in Summer 2019 (some flexibility).
+If interested, please email a brief statement of your research interests and a copy of your CV to [mlandis (at) gmail (dot) com](mailto:mlandis@gmail.com).
+A broader invitation to apply will be published by the end of 2018.
 
-New lab members will
+<!--
+are available for researchers who study evolutionary biology using quantitative or computational approaches.
+New members will design and lead research projects that match th
+, write first-author publications, b
+
+New members
 * have or seek experience in
   * biology (evolution, genomics, ecology)
   * quantitative (stats, math, CS)
@@ -21,9 +36,8 @@ New lab members will
 * will help design and lead a research project tailored to their background/training goals
 * be capable of working collaboratively and independently
 * think that most species on the planet are weird
-<!-- * will take ownership of a proposed project, depending on the individual's background, strengths, and training goals-->
 
 I will post official advertisements for PhD and postdoctoral research positions by January 2019.
 Before then, please [contact](mailto:mlandis@gmail.com) me if you're interested in joining the lab!
-
+-->
 

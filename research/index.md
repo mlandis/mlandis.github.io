@@ -4,22 +4,23 @@ title: research
 ---
 <h1>Research</h1>
 
-Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
+<!--
 Due to technological and mathematical reasons, statistical phylogenetic research has largely focused on models of molecular evolution.
 Two of the most salient aspects of biodiversity, the morphological and geographical variation of species, have a rich theoretical histories in biology, but lack statistical tools to test longstanding theories.
-
+-->
+Models of evolutionary processes help us understand how biodiversity is generated, sustained, and lost.
 My primary research interests include **statistical phylogenetics**, **Bayesian inference**, **historical biogeography**, and **phenotypic evolution**.
-I study evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
+The Landis Lab studies evolution by developing probabilistic models, writing open source and community-minded software, and analysing simulated and empirical data.
 These methods are available as open source software (see below).
-I maintain a broad and active interest in phylogenetic inference, and serve as an active core developer for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
+We maintain a broad and active interest in phylogenetic inference, and develop for [RevBayes](http://revbayes.com), an open-source package for modeling evolutionary processes and estimating trees.
 
 #### Historical biogeography
 
 Historical biogeography studies the distribution of species in space and time.
 Because many species have no known fossil record, biogeographers often rely on reconstructing ancestral species ranges to understand how ranges change over time.
 Only recently, parametric models have been used in a phylogenetic context to estimate ancestral species ranges, represented presence-absence states for sets of discrete areas.
-Methodologically, I am interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
-For models, I am interested how biogeographic inference may improve phylogenetic estimates.
+Methodologically, we are interested in techniques to allow the models to be applied to high-resolution, global-scale datsets.
+For models, we are interested how biogeographic inference may improve phylogenetic estimates.
 
 ##### Related work
 
@@ -72,7 +73,7 @@ In phylogenetics, this is often modeled as a Brownian motion, whereby small chan
 Many evolutionary mechanisms, such as rapid adaptation, may produce "pulses" in variation, with punctuated change of large effect.
 Rapid change should produce power-law (or heavy-tailed) distributions of traits, but Brownian motion does not generate this feature.
 It is difficult to detect these bursts if they are not modeled appropriately.
-To search for signals of punctuated evolution, I apply a flexible class of stochastic processes that produce gradual and/or punctuational patterns of change, called Lévy processes.
+To search for signals of punctuated evolution, we apply a flexible class of stochastic processes that produce gradual and/or punctuational patterns of change, called Lévy processes.
 
 ##### Related work
 
@@ -117,7 +118,6 @@ Learning the degree of relatedness between species has far-reaching implications
 Estimating a phylogeny, of course, depends on one's model assumptions, which vary depending on the nature of the study.
 [RevBayes](http://revbayes.com) was designed to allow researchers to tailor models to their needs.
 RevBayes achieves this by providing a flexible scripting language to describe probabilistic graphical models.
-I advance my biological research program both as a core developer and daily user of RevBayes.
 
 ##### Related work
 
